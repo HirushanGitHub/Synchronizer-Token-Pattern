@@ -1,7 +1,7 @@
 # Synchronizer-Token-Pattern
 
 <h3>How to setup Synchronized Token Pattern</h3>
-First of all download apache 2 wed server and then install it (WAMP/XAMPP for windows, Lamp for Linux).
+First of all download apache wed server and then install it (WAMP/XAMPP for windows, Lamp for Linux).
 
 If you install "WAMP" for windows OS, there is a file in C:drive named "WAMP". There is a folder named "www" in this file. Then place your web app ("WS" folder of the downloaded zip) to the "www" folder. After that start the "WAMP" server after clicking. At this time you can see a WAMP server green colour incon in the right side of the start bar.
 
