@@ -12,7 +12,7 @@ If you use XAMPP then, access to the "WS" folder in the "htdocs" file and if you
 
 eg :- (localhost/WS)
 
-<h2>If this is not work ....</h2>
+<h2>If this is not working ....</h2>
 <h4>I have implemented this,using WAMP server.
 Access to the GetCSRF.php from browser.Then copy the current URL of the browser in the address box. After that go to "contact.html" code and found the Ajax call(line no: 57). Paste(line no: 59) the coppied URL to the URL ("http://localhost/WS/GetCSRF.php") which is used to access GetCSRF.php.Save the content and run. 
  </h4>
